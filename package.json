@@ -1,0 +1,39 @@
+{
+  "name": "mnc-oms",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Rizky Hamdhany <hamdhanywijaya@gmail.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.3.1",
+    "js-cookie": "^2.2.0",
+    "nuxt": "^1.0.0",
+    "vee-validate": "^2.1.0-beta.7",
+    "vue-axios": "^2.1.2",
+    "vue-currency-filter": "^2.2.6",
+    "vue-flash-message": "^0.6.2",
+    "vue-js-modal": "^1.3.16",
+    "vue-progressbar": "^0.7.5",
+    "vue-scrollto": "^2.11.0",
+    "vue2-editor": "^2.5.0",
+    "vuejs-paginate": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0",
+    "eslint-friendly-formatter": "^3.0.0",
+    "eslint-loader": "^1.7.1",
+    "eslint-plugin-vue": "^4.0.0",
+    "tether": "^1.4.4"
+  }
+}
