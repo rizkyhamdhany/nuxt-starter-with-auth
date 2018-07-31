@@ -1,4 +1,4 @@
-# mnc-oms
+# WISION NUXT STARTER WITH AUTH
 
 > Nuxt.js project
 
